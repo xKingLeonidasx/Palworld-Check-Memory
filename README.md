@@ -9,6 +9,8 @@ Make Selections starting from the top of script modifying the variables until yo
 
 * Sample log files in the Sample Logs folder
 
+* Set this on a sched using Task Scheduler.
+
 Variables:
 
 1. $PorVRAM 
