@@ -7,6 +7,8 @@ Make Selections starting from the top of script modifying the variables until yo
 
 * Linux user can try: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.4
 
+Variables:
+
 1. $PorVRAM 
    a. Here you select P or V. This will indicate if you want the script to use Virtual or Physical Memory. V - Virtual ; P - Phisical
    b. If you run your server / start batch silent select virtual.
