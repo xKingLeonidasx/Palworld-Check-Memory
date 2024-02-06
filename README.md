@@ -7,6 +7,8 @@ Make Selections starting from the top of script modifying the variables until yo
 
 * Linux user can try: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.4
 
+* Sample log files in the Sample Logs folder
+
 Variables:
 
 1. $PorVRAM 
