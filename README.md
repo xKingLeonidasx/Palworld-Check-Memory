@@ -1,6 +1,11 @@
 # Palworld-Check-Memory
 This PS script checks memory usage as well as collects logs, sends server messages, restarts and updates server based on selections
 
+******************************
+NOTE: Due to bug with Palworld and RCON handling characher names with non-latin /special characters the show players cmd will hang if a player has a name with those chatacters until bug is fixed. You can either change player names in level.sav or opt to disable the active player log to not have script run showplayersin the meantime.
+******************************
+
+
 Make Selections starting from the top of script modifying the variables until you hit: NO NEED TO EDIT BELOW HERE
 
 * This script requires AARCON: https://github.com/radj307/ARRCON
